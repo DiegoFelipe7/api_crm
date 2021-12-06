@@ -1,0 +1,36 @@
+{
+  "clientes": [
+    {
+      "nombre": "Diego Muñoz",
+      "empresa": "Everis sa",
+      "email": "dfmunoz@unimator.co",
+      "telefono": "31412421",
+      "notas": "Esta nota esta muy corta gonorrea hp",
+      "id": 1
+    },
+    {
+      "nombre": "Prueba",
+      "empresa": "everis",
+      "email": "dm@gmail.com",
+      "telefono": "1231",
+      "notas": "asdadasdasdasdasdasasd asda aasda",
+      "id": 2
+    },
+    {
+      "nombre": "qweqw",
+      "empresa": "qweqwe",
+      "email": "qwew@dasd.com",
+      "telefono": "1231212",
+      "notas": "asd asdasd asdd asdas asd asdasd ",
+      "id": 3
+    },
+    {
+      "nombre": "Diego ",
+      "empresa": "Everis",
+      "email": "dfmunoz@unimator.co",
+      "telefono": "123123",
+      "notas": "Esta nota esta muy corta gonorrea hp",
+      "id": 4
+    }
+  ]
+}
